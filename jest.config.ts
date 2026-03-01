@@ -5,3 +5,5 @@ const config: Config.InitialOptions = {
   testEnvironment: "node",
   verbose: true,
 };
+
+export default config;
